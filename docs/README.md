@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 heroText: Laravel Blueprint
-tagline: Make your live easy! 😉
+tagline: Make your life easy! 😉
 actionText: Get Started →
 actionLink: /guide/
 features:
